@@ -15,7 +15,7 @@ Java exercises, out of which at least two questions are mandatory.
           -----> stringpalindrome.java <-----
           
           2) Write a Java Program to find the frequency of a given character in a string. **
-          3) Write a Java program to multiply two given matrices. ** 
+          3) Write a Java program to multiply two given matrices. **    -----> MatrixMultiply.java <-----
           
 (B) Object Oriented Programming Concepts: Problem on the use of constructors, inheritance,
 method overloading & overriding, polymorphism and garbage collection:
