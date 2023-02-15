@@ -12,7 +12,7 @@ Java exercises, out of which at least two questions are mandatory.
 
           1) Write a Java program that checks whether a given string is a palindrome or not.*
           Ex: MALAYALAM is palindrome.
-          -----> stringpalindrome.java <-----
+         -----> stringpalindrome.java <-----
           
           2) Write a Java Program to find the frequency of a given character in a string. **
           3) Write a Java program to multiply two given matrices. **    -----> MatrixMultiply.java <-----
@@ -27,17 +27,19 @@ Salary( )' which prints the salary of the Employee. Two classes 'Officer' and 'M
 inherits the 'Employee' class. The 'Officer' and 'Manager' classes have data members 'specialization'
 and 'department' respectively. Now, assign name, age, phone number, address
 and salary to an officer and a manager by making an object of both of these classes and
-print the same. (Exercise to understand inheritance). **
+print the same. (Exercise to understand inheritance). ** ` -----> EmployeeDemo.java <----- `
 
 
 5) Write a java program to create an abstract class named Shape that contains an empty
 method named numberOfSides( ). Provide three classes named Rectangle, Triangle and
 Hexagon such that each one of the classes extends the class Shape. Each one of the classes
 contains only the method numberOfSides( ) that shows the number of sides in the given
-geometrical structures. (Exercise to understand polymorphism). **
+geometrical structures. (Exercise to understand polymorphism). **  `  -----> ShapeMain.java <----- `
 
 
 6) Write a Java program to demonstrate the use of garbage collector.
+
+
 (C) Handling different types of files as well as input and output management methods:
 
 
@@ -49,7 +51,7 @@ geometrical structures. (Exercise to understand polymorphism). **
 
 
 9) Write a Java program that reads a line of integers, and then displays each integer, and the
-sum of all the integers (Use String Tokenizer class of java.util). **
+sum of all the integers (Use String Tokenizer class of java.util). **  `  -----> SumStringToken.java <----- `
 
 (D) Exception handling and multi-threading applications:
 
@@ -61,7 +63,7 @@ First thread generates a random integer every 1 second. If the value is even, se
 thread computes the square of the number and prints. If the value is odd the third thread
 will print the value of cube of the number.
 
-12) Write a Java program that shows thread synchronization. **
+12) Write a Java program that shows thread synchronization. **  `  -----> OddEvenThread.java <----- `
 
 
 
@@ -95,10 +97,10 @@ ascending order. **
 
 
 PRACTICE QUESTIONS
-1) Write a Java program to reverse an given string.                   -----> StringPalindrome.java <-----
-2) Write a Java program to display the transpose of a given matrix.         -----> MatrixTranspose.java <-----
+1) Write a Java program to reverse an given string.                  ` -----> StringPalindrome.java <----- `
+2) Write a Java program to display the transpose of a given matrix.      `   -----> MatrixTranspose.java <----- `
 3) Write a Java program to find the second smallest element in an array.
-4) Write a Java program to check whether a given number is prime or not.    -----> Prime.java <-----
+4) Write a Java program to check whether a given number is prime or not.   ` -----> Prime.java <----- `
 5) Write a Java program to calculate the area of different shapes namely circle, rectangle,
 and triangle using the concept of method overloading.
 6) Write two Java classes Employee and Engineer. Engineer should inherit from Employee
@@ -109,9 +111,10 @@ display the engineer salary and to display from Employee class using a single ob
 of class is Employee.”
 ● calcSalary() in Employee displays “Salary of employee is 10000” and calcSalary() in
 Engineer displays “Salary of employee is 20000.”
-7) Write a Java program to illustrate Interface inheritance.
-8) Write a Java program that shows how to create a user-defined exception.
+7) Write a Java program to illustrate Interface inheritance. `  -----> GeoAnalyzerTest.java <-----  `
+8) Write a Java program that shows how to create a user-defined exception. 
 9) Write a Java program to create two threads: One for displaying all odd number between 1 and 100 and second thread for displaying all even numbers between 1 and 100.
+`  -----> OddEvenThread.java <----- `
 
 10)Write a Java program that shows thread priorities.
 
