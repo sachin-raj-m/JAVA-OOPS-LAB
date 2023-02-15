@@ -38,6 +38,8 @@ geometrical structures. (Exercise to understand polymorphism). **  `  -----> Sha
 
 
 6) Write a Java program to demonstrate the use of garbage collector.
+
+
 (C) Handling different types of files as well as input and output management methods:
 
 
@@ -109,8 +111,8 @@ display the engineer salary and to display from Employee class using a single ob
 of class is Employee.”
 ● calcSalary() in Employee displays “Salary of employee is 10000” and calcSalary() in
 Engineer displays “Salary of employee is 20000.”
-7) Write a Java program to illustrate Interface inheritance.
-8) Write a Java program that shows how to create a user-defined exception.
+7) Write a Java program to illustrate Interface inheritance. `  -----> GeoAnalyzerTest.java <-----  `
+8) Write a Java program that shows how to create a user-defined exception. 
 9) Write a Java program to create two threads: One for displaying all odd number between 1 and 100 and second thread for displaying all even numbers between 1 and 100.
 `  -----> OddEvenThread.java <----- `
 
