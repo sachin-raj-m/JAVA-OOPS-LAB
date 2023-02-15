@@ -12,7 +12,7 @@ Java exercises, out of which at least two questions are mandatory.
 
           1) Write a Java program that checks whether a given string is a palindrome or not.*
           Ex: MALAYALAM is palindrome.
-          -----> stringpalindrome.java <-----
+         -----> stringpalindrome.java <-----
           
           2) Write a Java Program to find the frequency of a given character in a string. **
           3) Write a Java program to multiply two given matrices. **    -----> MatrixMultiply.java <-----
@@ -95,10 +95,10 @@ ascending order. **
 
 
 PRACTICE QUESTIONS
-1) Write a Java program to reverse an given string.                   -----> StringPalindrome.java <-----
-2) Write a Java program to display the transpose of a given matrix.         -----> MatrixTranspose.java <-----
+1) Write a Java program to reverse an given string.                  ` -----> StringPalindrome.java <----- `
+2) Write a Java program to display the transpose of a given matrix.      `   -----> MatrixTranspose.java <----- `
 3) Write a Java program to find the second smallest element in an array.
-4) Write a Java program to check whether a given number is prime or not.    -----> Prime.java <-----
+4) Write a Java program to check whether a given number is prime or not.   ` -----> Prime.java <----- `
 5) Write a Java program to calculate the area of different shapes namely circle, rectangle,
 and triangle using the concept of method overloading.
 6) Write two Java classes Employee and Engineer. Engineer should inherit from Employee
